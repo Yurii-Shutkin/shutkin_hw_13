@@ -13,5 +13,5 @@ function getDegree (userNum, exp = 1) {
 }
 
 const result = getDegree(userNum, exp);
-console.log (userNum, exp)
+
 alert (result);
